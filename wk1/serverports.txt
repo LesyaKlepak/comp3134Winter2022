@@ -1,0 +1,16 @@
+Web server ports are the logical endpoints of a network connection that is used to exchange information between a web server and a web client.
+
+    Port numbers 0 to 1024 are reserved for privileged services and designated as well-known ports. In TCP/IP and UDP networks, a port is an endpoint to a logical connection and the way a client program specifies a specific server program on a computer in a network. The port number identifies what type of port it is.
+
+A port number is a 16-bit unsigned integer, thus ranging from 0 to 65535.
+
+File Transfer Protocol (FTP) Data Transfer
+	Secure Shell (SSH)
+	Network News Transfer Protocol (NNTP)
+	Network Time Protocol (NTP)
+	HTTP Secure (HTTPS) HTTP over TLS/SSL
+	Telnet - Remote login service, unencrypted text messages
+	Domain Name System (DNS) service
+	Hypertext Transfer Protocol (HTTP)
+	Post Office Protocol (POP3)
+	Internet Relay Chat (IRC)
